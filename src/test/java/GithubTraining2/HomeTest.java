@@ -10,7 +10,6 @@ public class HomeTest extends BaseClass {
 
     @Test
     @Epic("Skills flow")
-    @Feature("Skills feature")
     @Owner("Alaa")
     @Severity(SeverityLevel.CRITICAL)
     @Description("Verify that user is able to view and navigate to skills")
